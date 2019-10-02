@@ -14,3 +14,10 @@ Closed-bosomed friend of the maturing sun <br>
   <li>pour the water in the mug</li>
   <li>Stir and add milk</li>
 </ol>
+<p>Things to do today</p>
+<ul>
+  <li>Eat my lunch with some friends</li>
+  <li>Read my books and texts in the library</li>
+  <li>Go to the gym</li>
+  <li>Drink 1,5 L of water</li>
+  </ul>
