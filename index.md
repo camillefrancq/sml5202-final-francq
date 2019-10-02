@@ -7,7 +7,7 @@ Season of mists and mellow fruitfulness <br>
 Closed-bosomed friend of the maturing sun <br>
 </p>
 <hr>
-<p>How to make a cup of tea>?</p>
+<p>How to make a cup of tea?</p>
 <ol>
   <li>Boil the water</li>
   <li>Get a teabag</li>
