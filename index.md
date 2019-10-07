@@ -14,7 +14,7 @@
 </p>                                                                                                                       
 <hr>
 <p>
-<h2>Section 3: My favoutire things</h2>                                                                          
+<h2>Section 3: My favourite things</h2>                                                                          
 <ol>
   <li>Travelling around the world</li>
   <li>Eating Japanese food</li>
