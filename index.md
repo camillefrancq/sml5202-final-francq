@@ -1,23 +1,23 @@
-<h1>Welcome!</h1>
-<p>This website is about English language, culture and literature.</p>
+<h1>Homework 1</h1>
 
-<h2>Ode to Autumn</h2>
-<p>
-Season of mists and mellow fruitfulness <br>  
-Closed-bosomed friend of the maturing sun <br>
-</p>
+<h2>Section 1: description of myself</h2>
+<p> Hello! My name is Camille. I was born in Belgium in 1997 and I have lived in Ottignies, a small city not so far from Brussels, since my birth. In the context of my master in multilingual communication at  the Université Catholique de Louvain in Belgium, I am currently doing an Erasmus at Queen Mary University of London in the school of Languages, Linguistics and Film. I have lived in London for less than a month but I really look forward to learning more about this city and about the United Kingdom in general. 
+<a href="<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=camille-ariane-francq&page=sml5202-camille-s-page"> Visit my Qmulplus Hub page. </a> </p>
 <hr>
-<p>How to make a cup of tea?</p>
-<ol>
-  <li>Boil the water</li>
-  <li>Get a teabag</li>
-  <li>pour the water in the mug</li>
-  <li>Stir and add milk</li>
-</ol>
-<p>Things to do today</p>
+<p>                                                                                                                      
+<h2>Section 2: To do list</h2>                                                                                            
 <ul>
-  <li>Eat my lunch with some friends</li>
-  <li>Read my books and texts in the library</li>
-  <li>Go to the gym</li>
-  <li>Drink 1,5 L of water</li>
+  <li>Explore and discover the United Kingdom</li>
+  <li>Climb the Mount Everest</li>
+  <li>Travel to Japan</li>
   </ul>
+</p>                                                                                                                       
+<hr>
+<p>
+<h2>Section 3: My favoutire things</h2>                                                                          
+<ol>
+  <li>Travelling around the world</li>
+  <li>Eating Japanese food</li>
+  <li>Spending time with my family</li>
+</ol>
+</p>
