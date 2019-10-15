@@ -25,4 +25,4 @@
 </table>
 </p>
 
-<p><html lang="fr">J'aimerais voyager en Californie pour admirer de magnifiques couchers de soleil.</html></p>
+<p lang="fr">J'aimerais voyager en Californie pour admirer de magnifiques couchers de soleil.</p>
