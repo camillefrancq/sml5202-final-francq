@@ -1,5 +1,5 @@
 <h1>HTML Part 2 Homework</h1>
-<p>Tuesday, 15 <sup>th</sup> of October 2019.</p>
+<p>Tuesday,15<sup>th</sup> of October 2019.</p>
 
 <p>
 <img src="https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/Hermosa%20Beach%20Pier%20sunset.jpg?itok=9x82CPJg" alt="DESCRIPTION OF IMAGE" >
