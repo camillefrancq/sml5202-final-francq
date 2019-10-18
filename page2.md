@@ -2,7 +2,8 @@
 <p>Tuesday, 15<sup>th</sup> of October 2019.</p>
 
 <p>
-<img src="https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/Hermosa%20Beach%20Pier%20sunset.jpg?itok=9x82CPJg" alt="DESCRIPTION OF IMAGE" >
+<img style="width:50%; border:1px solid black;"
+src="https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/Hermosa%20Beach%20Pier%20sunset.jpg?itok=9x82CPJg" alt="DESCRIPTION OF IMAGE" >
 </p>
 
 <p>
