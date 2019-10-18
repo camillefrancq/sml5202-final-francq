@@ -9,4 +9,10 @@
 src="https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/Hermosa%20Beach%20Pier%20sunset.jpg?itok=9x82CPJg" alt="DESCRIPTION OF IMAGE" >
 Stunning sunsets are synonymous with California. With miles of picturesque coastlines and expansive landscapes, there’s no shortage of places to watch the sun go down in the most breathtaking fashion.
 </p>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
