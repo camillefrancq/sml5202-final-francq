@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "{{ site.theme }}";
 @import 'jekyll-theme-cayman';
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 
@@ -18,4 +19,12 @@ body {font-family: 'Ubuntu', sans-serif;}
 	margin-bottom: 1rem;
 	font-weight: normal;
 	color: #843148;
+}
+
+.imgLeft {
+float: left; 
+margin: 0 10px 10px 0;
+width 70%;
+vertical-align: top;
+border: 1px solid #021a40;
 }
