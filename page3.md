@@ -16,3 +16,37 @@ Stunning sunsets are synonymous with California. With miles of picturesque coast
 <br/>
 <br/>
 <br/>
+
+
+
+<h2>Here is a list of all names zith a random(ish) verb + adverb</h2>
+<button onclick="makeSentence()">Click me</button>
+
+<p id="demo"></p>
+
+<script>
+function makeSentence() {
+
+var person = {
+    names: ["Brian", "Betty", "Fiona"],
+    verbs: ["speaks", "eats","runs", "walks"],
+    adverbs: ["slowly", "quickly", "nicely"],
+
+};
+
+var i;
+var text = "";
+for (i = 0; i < person.names.length; i++) {
+
+  name = person.names[i];
+  verb = person.verbs[Math.floor(Math.random() * person.verbs.length)];
+  adv = person.adverbs[Math.floor(Math.random() * person.adverbs.length)];
+
+  text += name + " " + verb + " " + adv + "<br>";
+
+  document.getElementById("demo").innerHTML= text;
+
+}
+}
+  
+</script>
