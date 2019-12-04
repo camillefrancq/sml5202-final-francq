@@ -23,6 +23,9 @@
 </p>
 
 <p>
-  <a href="page2.html">Page 2</a> <br>
-  <a href="page3.html">Page 3</a>
+  <a href="page2.html">About Belgium</a> <br>
+  <a href="page3.html">Vocabulary</a>
+  <a href="page4.html">Useful phrases</a>
+  <a href="page5.html">Basic grammar</a>
+  <a href="page6.html">Best things to do in Belgium</a>
 </p>
