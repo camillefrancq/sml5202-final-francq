@@ -22,7 +22,7 @@ alt="DESCRIPTION OF IMAGE" >
 </p>
 
 <p>
-<img src="https://cdn.pixabay.com/photo/2018/09/14/14/31/feedback-3677258__340.jpg"
+<img src="https://image.flaticon.com/icons/png/512/761/761505.png"
 alt="DESCRIPTION OF IMAGE" >
 </p>
 <p> 
