@@ -21,6 +21,10 @@
 alt="DESCRIPTION OF IMAGE" >
 </p>
 
+<p>
+<img src="https://cdn.pixabay.com/photo/2018/09/14/14/31/feedback-3677258__340.jpg"
+alt="DESCRIPTION OF IMAGE" >
+</p>
 <p> 
 You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin. <br>
 
