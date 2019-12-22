@@ -25,6 +25,12 @@ alt="DESCRIPTION OF IMAGE" >
 <img src="https://image.flaticon.com/icons/png/512/761/761505.png"
 alt="DESCRIPTION OF IMAGE" >
 </p>
+
+<p>
+<img src="https://image.flaticon.com/icons/png/512/326/326731.png"
+alt="DESCRIPTION OF IMAGE" >
+</p>
+
 <p> 
 You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin. <br>
 
