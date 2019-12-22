@@ -27,7 +27,7 @@ Belch is aimed at people who are interested in Belgium and who have no previous 
 
 
 <p>
-<h2>How does "Belch" of the website work?</h2>
+<h2>How does Belch work?</h2>
 <ul>
   <li>Adapted: intended for beginner learners</li>
   <li>Structured: clearly divided in parts</li>
@@ -48,8 +48,11 @@ Interested in Belgium? Willing to master the basics in French? Planning to visit
 
 
 <p>
-<strong> Belch is made for you!</strong> <br> 
+  
+<strong>Belch is made for you!</strong> <br> 
+</p>
 
+<p>
 <a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html"> Let's get started! </a>
 </p>
 
