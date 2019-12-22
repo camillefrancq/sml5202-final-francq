@@ -9,19 +9,23 @@
 
 <p> 
 You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin. 
+The following French course is intented to 
 </p>
+
+
 
 <p>
 <h2>How does "Belch" of the website work?</h2>
 <ul>
-  <li>Adapted: intended for learners</li>
+  <li>Adapted: intended for beginner learners</li>
   <li>Structured: clearly divided in parts</li>
   <li>Immediate feedback given</li>
   </ul>
 </p>         
 
 <p>
-The following French course is intented to 
+<h2> You decide when and where you want to study.</h2>
+Start with you computer at home. Continue later in the train on your smartphone. Even better, pick it up on your phone during your lunchbreak at work. 
 </p>
 
 
