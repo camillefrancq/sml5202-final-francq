@@ -8,7 +8,7 @@
 </p>
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg/langfr-800px-Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg.png" alt="DESCRIPTION OF IMAGE" >
+<img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" >
 </p>
 
 <p>
