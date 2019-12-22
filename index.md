@@ -7,7 +7,13 @@
   <a href="page6.html">Best things to do in Belgium</a> <br>
 </p>
 
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg/langfr-800px-Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg.png" alt="DESCRIPTION OF IMAGE" >
+</p>
 
+<p>
+<img src="https://static.brusselsairlines.com/_img/destinationPage2/Belgium/Brussels/Brussels_grand_place.jpg" alt="DESCRIPTION OF IMAGE" >
+</p>
 
 <p> 
 <h2> Overview: WHO & WHAT?</h2>
@@ -36,12 +42,12 @@ Start with you computer at home. Continue later in the train on your smartphone.
 </p>
 
 <p>
+<h2> Ready?</h2>
 Interested in Belgium? Willing to master the basics in French? Planning to visit marvellous cities such as Namur, Liège and the capital of Europe? <br>
 
 Belch is made for you!
-
-
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg/langfr-800px-Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg.png" alt="DESCRIPTION OF IMAGE" >
 </p>
+
+
+
 
