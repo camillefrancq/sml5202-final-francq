@@ -6,5 +6,4 @@
  <a href="page3.html">Vocabulary</a> <br>
  <a href="page5.html">Basic grammar</a> <br>
  <a href="page6.html">Best things to do in Belgium</a> 
- 
  </p>
