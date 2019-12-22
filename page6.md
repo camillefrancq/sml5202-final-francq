@@ -1,4 +1,4 @@
-<h1>Best things to do in Belgium<h1>
+<h1>Best things to do in Belgium</h1>
 
  <a href="index.html">Home page</a> <br>
  <a href="page2.html">About Belgium</a> <br>
