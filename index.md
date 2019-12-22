@@ -34,9 +34,9 @@ alt="DESCRIPTION OF IMAGE" >
 <p> 
 You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin. <br>
 
-<h2> Overview: WHO & WHAT?</h2>
+<h2> Overview: WHAT & WHO?</h2>
 
-The following French course is intented to provide basic information about Belgium, useful vocabulary and phrases as well as some basic notion of grammar. In order to better organize your future trip to Belgium, a section is devoted to the best activities that can be done in this tiny country. <br>
+The following French course is intented to provide basic information about Belgium, useful vocabulary and phrases as well as some basic notions of grammar. In order to better organize your future trip to Belgium, a section is devoted to the best activities that can be done in this tiny country. <br>
 <br>
 <br>
 Belch is aimed at people who are interested in Belgium and who have no previous knowledge of the French language. it is especially designed for people who plan to travel in this country. Belch will guide the learners through their language acquisition in order to facilitate their future trip to Belgium. 
@@ -47,9 +47,10 @@ Belch is aimed at people who are interested in Belgium and who have no previous 
 <p>
 <h2>How does Belch work?</h2>
 <ul>
-  <li>Adapted: intended for beginner learners</li>
+  <li>Adapted: intended for beginner English learners</li>
   <li>Structured: clearly divided in parts</li>
   <li>Immediate feedback given</li>
+  <li>Interactive exercices in order to facilitate the language</li>
   </ul>
 </p>         
 
@@ -65,8 +66,7 @@ Interested in Belgium? Willing to master the basics in French? Planning to visit
 </p>
 
 
-<p>
-  
+<p> 
 <strong>Belch is made for you!</strong> <br> 
 </p>
 
