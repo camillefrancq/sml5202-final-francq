@@ -15,6 +15,12 @@
 <img src="https://static.brusselsairlines.com/_img/destinationPage2/Belgium/Brussels/Brussels_grand_place.jpg" alt="DESCRIPTION OF IMAGE" >
 </p>
 
+
+<p>
+<img src="https://cdn.pixabay.com/photo/2016/11/23/10/45/balloons-1852499_960_720.png"
+alt="DESCRIPTION OF IMAGE" >
+</p>
+
 <p> 
 You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin. <br>
 
