@@ -48,7 +48,7 @@ Interested in Belgium? Willing to master the basics in French? Planning to visit
 
 
 <p>
-<strong>Belch is made for you!</strong> <br> 
+<strong> Belch is made for you!</strong> <br> 
 
 <a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html"> Let's get started! </a>
 </p>
