@@ -17,7 +17,7 @@
 
 
 <p>
-<img src="https://cdn.pixabay.com/photo/2016/11/23/10/45/balloons-1852499_960_720.png"
+<img src="https://image.flaticon.com/icons/png/512/1126/1126453.png"
 alt="DESCRIPTION OF IMAGE" >
 </p>
 
