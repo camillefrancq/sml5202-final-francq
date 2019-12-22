@@ -12,7 +12,7 @@
 </p>
 
 <p>
-<img src="https://static.brusselsairlines.com/_img/destinationPage2/Belgium/Brussels/Brussels_grand_place.jpg" alt="DESCRIPTION OF IMAGE" >
+<img src="https://image.flaticon.com/icons/png/512/1623/1623343.png" alt="DESCRIPTION OF IMAGE" >
 </p>
 
 
