@@ -6,3 +6,7 @@
   <a href="page5.html">Basic grammar</a> <br>
   <a href="page6.html">Best things to do in Belgium</a> <br>
 </p>
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg/langfr-800px-Communaut%C3%A9_fran%C3%A7aise_in_Belgium.svg.png" alt="DESCRIPTION OF IMAGE" >
+</p>
