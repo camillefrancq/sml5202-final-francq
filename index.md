@@ -21,7 +21,7 @@ You would like to start learning french from square one? That is a great idea! B
 
 The following French course is intented to provide basic information about Belgium, useful vocabulary and phrases as well as some basic notion of grammar. In order to better organize your future trip to Belgium, a section is devoted to the best activities that can be done in this tiny country. <br>
 
-Belch is aimed at people who are interested in Belgium and who have no previous knowledge of the French language. it is especially designed for people who plan to travel in this country.
+Belch is aimed at people who are interested in Belgium and who have no previous knowledge of the French  language. it is especially designed for people who plan to travel in this country.
 </p>
 
 
@@ -45,7 +45,7 @@ Start with you computer at home. Continue later in the train on your smartphone.
 <h2> Ready?</h2>
 Interested in Belgium? Willing to master the basics in French? Planning to visit marvellous cities such as Namur, Liège and the capital of Europe? <br>
 
-<strong>Belch is made for you!</strong>
+<strong>Belch is made for you!</strong> <br> 
 
 <a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html"> Let's get started! </a>
 </p>
