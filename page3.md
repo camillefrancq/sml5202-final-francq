@@ -51,7 +51,7 @@
     <iframe src="https://h5p.org/h5p/embed/684191" width="1090" height="1614" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
   <div class="column">
-    <h2>Column 2</h2>
+    <h2>Exercice 2</h2>
     <iframe src="https://h5p.org/h5p/embed/684259" width="1090" height="1698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
