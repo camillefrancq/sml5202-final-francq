@@ -9,27 +9,28 @@
 </p>
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:112px;height:112px;">>
+<img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:212px;height:212px;">
 </p>
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/1623/1623343.png" alt="DESCRIPTION OF IMAGE" >
+<img src="https://image.flaticon.com/icons/png/512/1623/1623343.png" alt="DESCRIPTION OF IMAGE" 
+style="width:112px;height:112px;">
 </p>
 
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/1126/1126453.png"
-alt="DESCRIPTION OF IMAGE" >
+alt="DESCRIPTION OF IMAGE" style="width:112px;height:112px;">
 </p>
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/761/761505.png"
-alt="DESCRIPTION OF IMAGE" >
+alt="DESCRIPTION OF IMAGE" style="width:112px;height:112px;">
 </p>
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/326/326731.png"
-alt="DESCRIPTION OF IMAGE" >
+alt="DESCRIPTION OF IMAGE" style="width:112px;height:112px;">
 </p>
 
 <p> 
