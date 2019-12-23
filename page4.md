@@ -1,3 +1,4 @@
+ <center> 
  <h1>Useful phrases</h1>
 
 <p>
@@ -7,3 +8,4 @@
  <a href="page5.html">Basic grammar</a> <br>
  <a href="page6.html">Best things to do in Belgium</a> 
  </p>
+</center> 
