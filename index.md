@@ -1,3 +1,4 @@
+<center> 
 <h1>Home page</h1>
 <p>
   <a href="page2.html">About Belgium</a> <br>
@@ -73,6 +74,7 @@ Interested in Belgium? Willing to master the basics in French? Planning to visit
 <p>
 <a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html"> Let's get started! </a>
 </p>
+</center>
 
 
 
