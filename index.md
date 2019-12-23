@@ -9,7 +9,7 @@
 </p>
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" >
+<img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:312px;height:312px;">>
 </p>
 
 <p>
