@@ -13,8 +13,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_fries_juliane_kr_r.svg/80px-French_fries_juliane_kr_r.svg.png" align="right">
  Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
  </p> 
- <br>
- <br>
+
 <p>
  <h3>Exercise 1</h3>
  How is Belgium organized? structured? What is Belgium famour for? Let's discover that with the following presentation!
