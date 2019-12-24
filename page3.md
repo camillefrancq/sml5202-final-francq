@@ -13,7 +13,7 @@
 <p>
 <h2>Do you know the basic words needed to survive in Belgium?</h2>
 
-The French language is one of the most romantic languages in the world and its beauty lies in its words. This language is estimated to be made out of a total of 200000 words with the largest French dictionary having over 100000 words. This can seem a really big and frightening number to someone wanting to start learning French, but here's the good news: this page will provide some basic words to allow a basic discussion to happen. Knowing the basics will make you confident in your French skills and eager to learn more.
+The French language is one of the most romantic languages in the world and its beauty lies in its words. This language is estimated to be made out of a total of 200000 words with the largest French dictionary having over 100000 words. This can seem a really big and frightening number to someone wanting to start learning French, but here's the good news: this page will provide some basic words to allow a basic discussion to happen. Knowing the basics will make you confident in your French skills and eager to learn more.<br>
 Do not worry, Belgian people are nice and will not judge mispruniciations or mistakes!
 </p>
 
