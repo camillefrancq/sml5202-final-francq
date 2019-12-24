@@ -11,7 +11,7 @@
  <p>
  <h2>Welcome to Belgium</h2>
  Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
- <img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:100px;height:100px;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_fries_juliane_kr_r.svg/120px-French_fries_juliane_kr_r.svg.png">
  </p> 
 <p>
  <h3>Exercise 1</h3>
