@@ -8,6 +8,7 @@
  <a href="page6.html">Best things to do in Belgium</a> 
 </p>
 </center> 
+<hr>
 
 <style>
 * {
@@ -47,14 +48,16 @@
 
 <div class="row">
   <div class="column">
-    <h2>Exercice 1</h2>
+    <h2>Exercise 1</h2>
     <iframe src="https://h5p.org/h5p/embed/684191" width="1090" height="1614" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
   <div class="column">
-    <h2>Exercice 2</h2>
+    <h2>Exercise 2</h2>
     <iframe src="https://h5p.org/h5p/embed/684259" width="1090" height="1698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
+
+<hr>
 
 <div class="row">
   <div class="column">
@@ -67,8 +70,11 @@
   </div>
 </div>
 
+<hr>
 
 <iframe src="https://h5p.org/h5p/embed/684269" width="1090" height="1538" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<hr>
 
 <iframe src="https://h5p.org/h5p/embed/684420" width="1090" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
