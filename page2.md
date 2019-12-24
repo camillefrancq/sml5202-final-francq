@@ -10,7 +10,7 @@
   
  <p>
  <h2>Welcome to Belgium</h2>
- <img src="https://image.flaticon.com/icons/png/512/761/761505.png" alt="travel" align="right">
+ <img src="https://image.flaticon.com/icons/png/512/761/761505.png" width: "50%" alt="travel" align="right">
  Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
  </p> 
 
