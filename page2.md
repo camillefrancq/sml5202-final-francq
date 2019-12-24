@@ -11,8 +11,7 @@
  <p>
  <h2>Welcome to Belgium</h2>
  <h3>Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?</h3>
- </p>
- 
+ </p> 
 <p>
  <h4>Exercise 1</h4>
  <h5>How is Belgium organized? structured? What is Belgium? The following presentation will answer these questions!</h5>
