@@ -63,7 +63,7 @@ This exercise will provide you with the basic vocabulary to be able to order wha
 </style>
 
 <h2>Fruits and vegetables</h2>
-At a certain point, waffles, beers and fries might need to be compensate by some healthy snacks. What is in this case better than a resfreshing fruit or a warming soup full of vitamines made from fresh vegetables bought while wandering through local markets? 
+At a certain point, waffles, beers and fries might need to be compensated by some healthy snacks. What is in this case better than a resfreshing fruit or a warming soup full of vitamines made from fresh vegetables bought while wandering through local markets? 
 
 <div class="row">
   <div class="column">
@@ -78,6 +78,7 @@ At a certain point, waffles, beers and fries might need to be compensate by some
 <hr>
 
 <h2>Verbs</h2>
+Are you ready to widen your French vocabulary with some common French verbs? The following exercice provides
 <div class="row">
   <div class="column">
     <h3>Exercise 4</h3>
@@ -96,12 +97,13 @@ At a certain point, waffles, beers and fries might need to be compensate by some
 <hr>
 
 <h2>Greetings</h2>
-<h3>Exercise7</h3>
 These are the words you must know before a trip to Belgium because knowing them is an easy way to show people that you care about Belgium and its peoples. 
+<h3>Exercise7</h3>
 <hr>
 
 <h2>Time indicators</h2>
 <h3>Exercise8</h3>
+Last but not least, what about learning to express time? 
 Learning the vocabulary of days of the weeks, months and some other temporal indicators will help you to situate your actions in time when holding a conversation with native speakers of French. 
 The simplest method for learning to speak the days of the week is by heart. Read the words out aloud a few times and you'll quickly learn them by heart.
 As you can read and listen to the sounds of the words for the months in French, you will notice that they are very similar to English and should not give you any problems in learning by heart. Listen and repeat as often as possible.
