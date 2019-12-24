@@ -23,7 +23,7 @@ Do not worry, Belgian people are nice and will not judge mispruniciations or mis
 This exercise will provide you with the basic vocabulary to be able to order whatever you like during your breakfast at the hotel.</p>
 <h3>Exercise 1</h3>
 
-<iframe src="https://h5p.org/h5p/embed/684269" width="890" height="1138" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/684269" width="590" height="838" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 
 <style>
