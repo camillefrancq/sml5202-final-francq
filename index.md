@@ -2,7 +2,6 @@
 <h1>Home page</h1>
 <p>
   <a href="page2.html">About Belgium</a> <br>
-  <img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:212px;height:212px;"align="left">
   <a href="page3.html">Vocabulary</a> <br>
   <a href="page4.html">Useful phrases</a> <br>
   <a href="page5.html">Basic grammar</a> <br>
