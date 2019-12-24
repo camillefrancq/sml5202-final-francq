@@ -56,7 +56,12 @@
     <iframe src="https://h5p.org/h5p/embed/684259" width="1090" height="1698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
+<hr>
+<h2>Exercise 5</h2>
+<p>It is well known that breakfast is the most important meal of the day and this is especially the case when planning to explore the cities of Belgium. 
+This exercise will provide you with the basic vocabulary to be able to order whatever you like during your breakfast at the hotel.</p>
 
+<iframe src="https://h5p.org/h5p/embed/684269" width="1090" height="1538" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 
 <div class="row">
@@ -69,13 +74,6 @@
 <iframe src="https://h5p.org/h5p/embed/684791" width="1090" height="1538" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
-
-<hr>
-<h2>Exercise 5</h2>
-<p>It is well known that breakfast is the most important meal of the day and this is especially the case when planning to explore the cities of Belgium. 
-This exercise will provide you with the basic vocabulary to be able to order whatever you like during your breakfast at the hotel.</p>
-
-<iframe src="https://h5p.org/h5p/embed/684269" width="1090" height="1538" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 <h2>Exercise 6</h2>
