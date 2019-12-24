@@ -10,6 +10,10 @@
 </center> 
 <hr>
 
+<p>
+<h2>Do you know the basic words needed to survive in Belgium?</h2>
+</p>
+
 <style>
 * {
   box-sizing: border-box;
@@ -57,7 +61,7 @@
   </div>
 </div>
 <hr>
-<h2>Exercise 5</h2>
+<h2>Exercise 3</h2>
 <p>It is well known that breakfast is the most important meal of the day and this is especially the case when planning to explore the cities of Belgium. 
 This exercise will provide you with the basic vocabulary to be able to order whatever you like during your breakfast at the hotel.</p>
 
@@ -66,18 +70,22 @@ This exercise will provide you with the basic vocabulary to be able to order wha
 
 <div class="row">
   <div class="column">
-    <h2>Exercise 3</h2>
+    <h2>Exercise 4</h2>
     <iframe src="https://h5p.org/h5p/embed/684204" width="1090" height="698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
   <div class="column">
-    <h2>Exercise 4</h2>
+    <h2>Exercise 5</h2>
 <iframe src="https://h5p.org/h5p/embed/684791" width="1090" height="1538" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
-
 <hr>
+
 <h2>Exercise 6</h2>
 <iframe src="https://h5p.org/h5p/embed/684420" width="1090" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<hr>
+<h2>Exercise7</h2>
+These are the words you must know before a trip to Belgium because knowing them is an easy way to show people that you care about Belgium and its peoples. 
+
 
 
 
