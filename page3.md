@@ -63,6 +63,7 @@ This exercise will provide you with the basic vocabulary to be able to order wha
 </style>
 
 <h2>Fruits and vegetables</h2>
+At a certain point, waffles, beers and fries might need to be compensate by some healthy snacks. What is in this case better than a resfreshing fruit or a warming soup full of vitamines made from fresh vegetables bought while wandering through local markets? 
 
 <div class="row">
   <div class="column">
