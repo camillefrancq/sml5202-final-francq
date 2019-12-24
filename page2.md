@@ -14,7 +14,7 @@
  </p> 
 <p>
  <h3>Exercise 1</h3>
- How is Belgium organized? structured? What is Belgium? The following presentation will answer these questions!
+ How is Belgium organized? structured? What is Belgium famour for? Let's discover that with the following presentation!
 </p>
 
 <iframe src="https://h5p.org/h5p/embed/684601" width="688" height="412" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
