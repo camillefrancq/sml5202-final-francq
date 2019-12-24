@@ -6,6 +6,7 @@
   <a href="page4.html">Useful phrases</a> <br>
   <a href="page5.html">Basic grammar</a> <br>
   <a href="page6.html">Best things to do in Belgium</a> <br>
+  <img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="travel" align="right">
 </p>
 
 <p>
