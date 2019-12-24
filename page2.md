@@ -9,7 +9,7 @@
  </center> 
  
  <p>
- <h2>Welvome to Belgium</h2>
+ <h2>Welcome to Belgium</h2>
  <h3>Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?</h3>
  </p>
  
