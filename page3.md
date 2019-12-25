@@ -160,7 +160,17 @@ Remember, how you say “hello” in French depends on your relationship with th
   </tr>
  
 </table>
+<hr>
 
+<h3>Dos and Don’ts for French Greetings</h3>
+The proper etiquette for greeting people in Belgium rdepends on a few factors. While it’s expected and considered polite to greet everyone, from colleagues to shopkeepers, the way you greet each person depends on your relationship with them and the social setting. For example…
+<ul>
+ <li><strong>Les bises (kisses)</strong> are a typical greeting when meeting friends in Belgium.</li>
+ <li>A <strong>handshake</strong> is a greeting that is reserved for formal or business settings.
+When entering a meeting for work, it’s normal for colleagues to offer a firm handshake. It’s also common for men to greet with a handshake rather than with une bise.</li>
+ <li> A<strong>hug</strong>, contrary to American greetings, is reserved for close family members or significant others only.
+A hug is seen as an invasion of privacy to the French and can make someone feel awkward or uncomfortable if you don’t know them well enough.</li>
+</ul>
 <hr>
 
 <h3>Exercise7</h3>
