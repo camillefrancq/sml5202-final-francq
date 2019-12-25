@@ -168,7 +168,7 @@ The proper etiquette for greeting people in Belgium rdepends on a few factors. W
  <li><strong>Les bises (kisses)</strong> are a typical greeting when meeting friends in Belgium.</li>
  <li>A <strong>handshake</strong> is a greeting that is reserved for formal or business settings.
 When entering a meeting for work, it’s normal for colleagues to offer a firm handshake. It’s also common for men to greet with a handshake rather than with une bise.</li>
- <li> A<strong>hug</strong>, contrary to American greetings, is reserved for close family members or significant others only.
+ <li> A <strong>hug</strong>, contrary to American greetings, is reserved for close family members or significant others only.
 A hug is seen as an invasion of privacy to the French and can make someone feel awkward or uncomfortable if you don’t know them well enough.</li>
 </ul>
 <hr>
