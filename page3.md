@@ -98,6 +98,7 @@ Are you ready to widen your French vocabulary with some common French verbs? The
 
 <h2>Greetings</h2>
 These are the words you must know before a trip to Belgium because knowing them is an easy way to show people that you care about Belgium and its peoples. 
+Remember, how you say “hello” in French depends on your relationship with the other person, and the social setting. So at the end of this article, there is a section with French etiquette tips, dos, and dont’s.
 
 
 <table style="width:100%">
@@ -116,6 +117,10 @@ These are the words you must know before a trip to Belgium because knowing them 
   <tr>
     <td>Goodbye</td>
     <td>Au revoir</td>
+  </tr>
+  <tr>
+    <td>Nice to meet you</td>
+    <td>Enchanté(e)</td>
   </tr>
   <tr>
     <td>How are you?</td>
