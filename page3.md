@@ -98,6 +98,66 @@ Are you ready to widen your French vocabulary with some common French verbs? The
 
 <h2>Greetings</h2>
 These are the words you must know before a trip to Belgium because knowing them is an easy way to show people that you care about Belgium and its peoples. 
+
+
+<table style="width:100%">
+  <tr>
+    <th>English</th>
+    <th>French</th>
+  </tr>
+  <tr>
+    <td>Good morning</td>
+    <td>Bonjour</td>
+  </tr>
+  <tr>
+    <td>Hello, Hi</td>
+    <td>Salut</td>
+  </tr>
+  <tr>
+    <td>Goodbye</td>
+    <td>Au revoir</td>
+  </tr>
+  <tr>
+    <td>How are you?</td>
+    <td>Comment vas-tu?(informal) Comment allez-vous?(formal)</td>
+  </tr>
+   <tr>
+    <td>Good night</td>
+    <td>Bonne nuit</td>
+  </tr>
+   <tr>
+    <td>How are you?</td>
+    <td>Comment vas-tu? Comment allez-vous?</td>
+  </tr>
+  <tr>
+    <td>(very) well, thank you</td>
+    <td>(Très) bien, merci</td>
+  </tr>
+  <tr>
+    <td>And you?</td>
+    <td>Et vous?(formal) Et toi?(informal)</td>
+  </tr>
+  <tr>
+    <td>Thank you (very much)</td>
+    <td>Merci (beaucoup)</td>
+  </tr>
+  <tr>
+    <td>See you soon</td>
+    <td>A bientôt</td>
+  </tr>
+  <tr>
+    <td>See you tomorrow</td>
+    <td>A demain</td>
+  </tr>
+  <tr>
+    <td>See you tomorrow</td>
+    <td>A demain</td>
+  </tr>
+ 
+</table>
+
+<hr>
+
 <h3>Exercise7</h3>
 <hr>
 
