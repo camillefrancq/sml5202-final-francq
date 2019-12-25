@@ -98,7 +98,8 @@ Are you ready to widen your French vocabulary with some common French verbs? The
 
 <h2>Greetings</h2>
 These are the words you must know before a trip to Belgium because knowing them is an easy way to show people that you care about Belgium and its peoples. 
-Remember, how you say “hello” in French depends on your relationship with the other person, and the social setting. A little section will be therefore devoted to etiquette tips at the end of this section. 
+Remember, how you say “hello” in French depends on your relationship with the other person, and the social setting. A little section will be therefore devoted to etiquette tips at the end of this section. <br>
+First things first! Start by memorizing the table below and use the vocabulary to fill in the blanks of the following exercise. 
 
 <table style="width:100%">
   <tr>
@@ -159,7 +160,11 @@ Remember, how you say “hello” in French depends on your relationship with th
   </tr>
  
 </table>
+
+<iframe src="https://h5p.org/h5p/embed/685311" width="1090" height="598" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <hr>
+
 
 <h3>Dos and Don’ts for French Greetings</h3>
 The proper etiquette for greeting people in Belgium rdepends on a few factors. While it’s expected and considered polite to greet everyone, from colleagues to shopkeepers, the way you greet each person depends on your relationship with them and the social setting. For example…
