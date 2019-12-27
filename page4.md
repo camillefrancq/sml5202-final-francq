@@ -17,7 +17,7 @@ As you have noticed, the French language makes often use of the same verbs.
  <li> <strong>aller</strong> : aller tout droit, aller jusqu'au supermarché.</li>
  <li> <strong> prendre</strong> : prendre la première rue à droite, prendre le boulevard   Charlemagne, prendre à gauche après la boulangerie.</li>
  <li> <strong>tourner</strong> : tourner à droite, tourner à gauche.</li>
- <li><strong>faire</strong> : faire 100 mètres<li>
+ <li><strong>faire</strong> : faire 100 mètres</li>
  <li>traverser : traverser le pont / le parc / le boulevard.</li>
 </ul>
 
