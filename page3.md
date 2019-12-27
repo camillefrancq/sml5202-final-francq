@@ -157,11 +157,11 @@ First things first! Start by memorizing the table below and use the vocabulary t
   </tr> 
 </table>
 
-<hr>
 
+<h3>Exercise7</h3>
 <iframe src="https://h5p.org/h5p/embed/685311" width="1090" height="598" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<hr>
+
 
 
 <h3>Dos and Don’ts for French Greetings</h3>
@@ -173,9 +173,6 @@ When entering a meeting for work, it’s normal for colleagues to offer a firm h
  <li> A <strong>hug</strong>, contrary to American greetings, is reserved for close family members or significant others only.
 A hug is seen as an invasion of privacy to the French and can make someone feel awkward or uncomfortable if you don’t know them well enough.</li>
 </ul>
-<hr>
-
-<h3>Exercise7</h3>
 <hr>
 
 <h2>Time indicators</h2>
