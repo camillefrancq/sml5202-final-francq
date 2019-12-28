@@ -12,6 +12,7 @@
 
 <hr>
 <h2>How to make basic conversation in French</h2>
+Now let’s learn some basic French conversation. This lesson will teach you how to introduce yourself, as well as simple words and phrases like yes, no, excuse me and I don’t understand. Learn these and you’ll be ready to conduct short conversations in French.By mastering the basics of conversation in French, you put yourself and the person you’re talking to at ease. Everyone should learn essential French conversational words and phrases before traveling to a French-speaking country. These words and expressions are sure to come up in most everyday conversations.
 
 <h3>Basic courtesies</h3>
 
