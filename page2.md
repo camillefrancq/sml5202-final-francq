@@ -10,10 +10,10 @@
   
  <p>
  <h2>Welcome to Belgium</h2>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_fries_juliane_kr_r.svg/120px-French_fries_juliane_kr_r.svg.png" alt="travel" align="right">
+ <img src="https://image.flaticon.com/icons/png/512/72/72388.png" width:"20%" height:"20%" alt="carnival" align="right">
  Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
  </p> 
- 
+
 <hr>
 
 <p>
@@ -33,5 +33,6 @@ Learn more about Belgium and its andecdotes with the following presentation.
 <hr>
 
 <h3> Little challenge</h3>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jacques_Brel_%281962%29.jpg/310px-Jacques_Brel_%281962%29.jpg" width:"20%" height:"20%" alt="Brel" align="right">
 Speaking about Belgium without speaking about Jacques Brel is similar to speaking about English literature without speaking about Shakespeare. With over 25 million albums sold internationally, Brel is an icon of francophone music.<br>
 Let the melody carry you away in this <a href="page8.html">bonus activity</a>. 
