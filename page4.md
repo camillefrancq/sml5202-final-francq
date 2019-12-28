@@ -12,7 +12,11 @@
 
 <h2>Feeling disoriented?</h2>
 Exploring French-speaking countries can be quite an adventure, but you need to know how to ask for directions in French and to understand what you’re told. After all, if you don’t understand the directions, you might miss the very things you hoped to see. Luckily, a few French words can help you ask for directions and most of all understand the answer. <br>
-<strong>Little tip </strong>: Before asking your way, start with addressing people with the phrase "Excusez moi", which will attract people attention in a polite way. 
+<br>
+<br>
+<img src="https://image.flaticon.com/icons/png/512/2333/premium/2333877.png" alt="lightbulb" align="right"
+
+Little tip: Before asking your way, start with addressing people with the phrase "Excusez moi", which will attract people attention in a polite way. 
 <hr>
 <h3>Understanding basic directions</h3>
 
