@@ -45,3 +45,38 @@ A common way we refer to people is by using personal pronouns. In French, the pr
     <td>ILS (masculine or mixed groups)/ ELLES (feminine)</td>
   </tr>
 </table>
+<hr>
+<h2>Basic conjugation: Present tense</h2>
+Let’s take the verb “manger” (to eat) for example. Note the way it is written at the end.
+<table style="width:100%">
+  <tr>
+    <th>French</th>
+    <th>English</th>
+  </tr>
+  <tr>
+    <td>Je mange</td>
+    <td>I eat</td>
+  </tr>
+  <tr>
+    <td>Tu manges</td>
+    <td>You eat</td>
+  </tr>
+  <tr>
+    <td>Elle/Il mange</td>
+    <td>She/He eats</td>
+  </tr>
+  <tr>
+    <td>Nous mangeons</td>
+    <td>We eat</td>
+  </tr>
+  <tr>
+    <td>Vous mangez</td>
+    <td>You eat</td>
+  </tr>
+   <tr>
+    <td>Elles/Ils mangent</td>
+    <td>They eat</td>
+  </tr>
+</table>
+
+When an English-speaking learner of French looks at this, it’s quite overwhelming… In English, you add an "S" to the third person singular (he, she, it). But except for a few irregular verbs like to be, the verb is not going to change much:
