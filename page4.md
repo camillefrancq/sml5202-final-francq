@@ -9,7 +9,15 @@
  <a href="page6.html">Best things to do in Belgium</a> 
  </p>
 </center> 
+<hr>
+<h2>Introduce yourself in French</h2>
 
+
+<hr>
+<h2>How to make basic conversation in French</h2>
+
+
+<hr>
 <h2>Feeling disoriented?</h2>
 Exploring French-speaking countries can be quite an adventure, but you need to know how to ask for directions in French and to understand what you’re told. After all, if you don’t understand the directions, you might miss the very things you hoped to see. Luckily, a few French words can help you ask for directions and most of all understand the answer. <br>
 <br>
