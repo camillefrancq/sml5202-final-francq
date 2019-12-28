@@ -33,6 +33,6 @@ Learn more about Belgium and its andecdotes with the following presentation.
 <hr>
 
 <h3> Little challenge</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jacques_Brel_%281962%29.jpg/310px-Jacques_Brel_%281962%29.jpg" alt="DESCRIPTION OF IMAGE" style="width:90px;height:90px;" align="right">
+<img src="https://image.flaticon.com/icons/png/512/2424/2424884.png" alt="DESCRIPTION OF IMAGE" style="width:70px;height:70px;" align="right">
 Speaking about Belgium without speaking about Jacques Brel is similar to speaking about English literature without speaking about Shakespeare. With over 25 million albums sold internationally, Brel is an icon of francophone music.<br>
 Let the melody carry you away in this <a href="page8.html">bonus activity</a>. 
