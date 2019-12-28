@@ -46,7 +46,7 @@ As you have noticed, the French language makes often use of the same verbs.
 </ul>
 
 <h3>In the city</h3>
-When travelling to a country it is fairly easy to get lost or to not find places you are looking for. The following activity provides some basic words of buildings, institutions and area's in order to help you find your way back if lost. 
+When travelling to a country it is fairly easy to get lost or to not find places you are looking for. The following activity provides some basic words of buildings, institutions and area's in order to help you find your way back if lost. <br>
 
 <iframe src="https://h5p.org/h5p/embed/685342" width="1090" height="801" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
