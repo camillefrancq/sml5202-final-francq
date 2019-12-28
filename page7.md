@@ -4,8 +4,9 @@
 How to better verify if you have well understood and memorized the words and phrases than to challenge? Follow the instructions given and fill in the gap. 
 
 <audio controls>
-<source src="Indications.mp3" type="audio/mpeg">
+  <source src="https://camillefrancq.github.io/sml5202-final-francq/page2.html/assets/css/Indications.mp3" type="audio/mpeg">
 </audio>
+
 
 <img src="https://pbs.twimg.com/media/DJRVaS8XkAEo5yw.jpg" alt="map"> 
 
