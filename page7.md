@@ -4,9 +4,8 @@
 How to better verify if you have well understood and memorized the words and phrases than to challenge? Follow the instructions given and fill in the gap. 
 
 <audio controls>
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+  <source src="https://github.com/camillefrancq/sml5202-final-francq/blob/master/assets/css/Indications.mp3" type="audio/mpeg">
+ </audio>
 
 <img src="https://pbs.twimg.com/media/DJRVaS8XkAEo5yw.jpg" alt="map"> 
 
