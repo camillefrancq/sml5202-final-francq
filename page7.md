@@ -1,7 +1,7 @@
 <h1>Bonus activity</h1>
 
 <h2>Understanding directions: let's test your knowledge</h2>
-How to better verify if you have well understood and memorized the words and phrases than to challenge? Follow the instructions given and fill in the gap. 
+How to better verify if you have well understood and memorized the words and phrases than to challenge? Follow the instructions given and fill in the gap. <br>
 
 <script> 
 function playSound(soundobj) { 
