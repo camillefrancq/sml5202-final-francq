@@ -9,9 +9,6 @@
  <a href="page6.html">Best things to do in Belgium</a> 
  </p>
 </center> 
-<hr>
-<h2>Introduce yourself in French</h2>
-
 
 <hr>
 <h2>How to make basic conversation in French</h2>
@@ -19,6 +16,10 @@
 <h3>Basic courtesies</h3>
 
 <iframe src="https://h5p.org/h5p/embed/686388" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h3>Introduce yourself in French</h3>
+
+<iframe src="https://h5p.org/h5p/embed/686404" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 <hr>
