@@ -84,12 +84,12 @@ The example of the verb “manger” was what we call “a regular verb” in Fr
 <h4>What is the logic behind the conjugation of regular verbs?</h4>
 <ol>
 <il>Remove the “er” – this will give you what is called “the stem” in grammatical jargon.<br>
- Parler – er = parl</il>
+ Manger – er = mang</il>
 <li>To the stem, add the ending corresponding the the subject pronoun<br>
-Je = stem + e = je parle
-Tu = stem + es = tu parles
-Il, elle, on = stem + e = il, elle, on parle
-Nous = stem + ons = nous parlons
-Vous = stem + ez = vous parlez
-Ils, elles + stem + ent = ils, elles parlent</il>
+Je = stem + e = je mange<br>
+Tu = stem + es = tu manges<br>
+Il, elle, on = stem + e = il, elle, on mange<br>
+Nous = stem + ons = nous mangons<br>
+Vous = stem + ez = vous mangez<br>
+Ils, elles + stem + ent = ils, elles mangent</il>
 </ol>
