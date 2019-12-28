@@ -11,9 +11,9 @@
 
 <h2>Welcome to Belgium</h2>
 
-<img src="https://image.flaticon.com/icons/png/512/72/72388.png" alt="DESCRIPTION OF IMAGE" style="width:50px;height:50px;" align="right">
+<img src="https://image.flaticon.com/icons/png/512/72/72388.png" alt="DESCRIPTION OF IMAGE" style="width:70px;height:70px;" align="right">
 Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
-
+<br>
 <hr>
 
 <p>
