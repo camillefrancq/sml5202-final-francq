@@ -8,7 +8,7 @@
  </center> 
 <hr>
 
-As we have seen through the first section, Belgium is often associated with tasty beers, medieval and cultural activites, indulgent chocolates and fries. However, this European country offers much more than that. From modern vibrant cities laden with luxerious shops and art galleries to paved streets and authentic museums, everyone can find something to enjoy. 
+As we have seen through the first section, Belgium is often associated with tasty beers, medieval and cultural activites, indulgent chocolates and fries. However, this European country offers much more than that. From modern vibrant cities laden with luxurious shops and art galleries to paved streets and authentic museums, everyone can find something to enjoy. 
 
 <iframe src="https://h5p.org/h5p/embed/686230" width="890" height="438" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
