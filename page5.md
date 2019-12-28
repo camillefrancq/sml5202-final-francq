@@ -98,4 +98,5 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 <hr>
 
 If the meaning of a word is not clear in the previous exercise, <a href="https://www.linguee.fr/">visit this online dictionnary</a>. <br>
+img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary align="right"
 <a href="https://conjugueur.reverso.net/conjugaison-francais-verbe-conjuguer.html">Visit this website to try out other verbs</a>.
