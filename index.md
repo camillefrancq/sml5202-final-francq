@@ -13,7 +13,7 @@
 </p>
 
 <p> 
-You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin. <br>
+<strong>You would like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin.</strong><br>
 
 <h2> Overview: WHAT & WHO?</h2>
 
