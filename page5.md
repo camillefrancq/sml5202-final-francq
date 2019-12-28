@@ -83,13 +83,13 @@ When an English-speaking learner of French looks at this, it’s quite overwhelm
 The example of the verb “manger” was what we call “a regular verb” in French, verbs which follow the exact same conjugation pattern.
 <h4>What is the logic behind the conjugation of regular verbs?</h4>
 <ol>
-<il>Remove the “er” – this will give you what is called “the stem” in grammatical jargon.<br>
- Manger – er = mang</il>
+<li>Remove the “er” – this will give you what is called “the stem” in grammatical jargon.<br>
+ Manger – er = mang </li>
 <li>To the stem, add the ending corresponding the the subject pronoun<br>
 Je = stem + e = je mange<br>
 Tu = stem + es = tu manges<br>
 Il, elle, on = stem + e = il, elle, on mange<br>
 Nous = stem + ons = nous mangons<br>
 Vous = stem + ez = vous mangez<br>
-Ils, elles + stem + ent = ils, elles mangent</il>
+Ils, elles + stem + ent = ils, elles mangent</li>
 </ol>
