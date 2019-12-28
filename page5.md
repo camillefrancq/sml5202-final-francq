@@ -79,4 +79,17 @@ Let’s take the verb “manger” (to eat) for example. Note the way it is writ
   </tr>
 </table>
 
-When an English-speaking learner of French looks at this, it’s quite overwhelming… In English, you add an "S" to the third person singular (he, she, it). But except for a few irregular verbs like to be, the verb is not going to change much:
+When an English-speaking learner of French looks at this, it’s quite overwhelming… In English, you add an "S" to the third person singular (he, she, it). But except for a few irregular verbs like to be, the verb is not going to change much. <br>
+The example of the verb “manger” was what we call “a regular verb” in French, verbs which follow the exact same conjugation pattern.
+<h4>What is the logic behind the conjugation of regular verbs?</h4>
+<ol>
+<il>Remove the “er” – this will give you what is called “the stem” in grammatical jargon.<br>
+ Parler – er = parl</il>
+<li>To the stem, add the ending corresponding the the subject pronoun<br>
+Je = stem + e = je parle
+Tu = stem + es = tu parles
+Il, elle, on = stem + e = il, elle, on parle
+Nous = stem + ons = nous parlons
+Vous = stem + ez = vous parlez
+Ils, elles + stem + ent = ils, elles parlent</il>
+</ol>
