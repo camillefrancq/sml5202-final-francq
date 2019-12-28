@@ -29,7 +29,7 @@ A common way we refer to people is by using personal pronouns. In French, the pr
     <td>ELLE</td>
   </tr>
   <tr>
-    <td>HE/td>
+    <td>HE</td>
     <td>IL</td>
   </tr>
   <tr>
