@@ -3,13 +3,20 @@
 <h2>Understanding directions: let's test your knowledge</h2>
 How to better verify if you have well understood and memorized the words and phrases than to challenge? Follow the instructions given and fill in the gap. 
 
+<script> 
+function playSound(soundobj) { 
+let thissound=document.getElementById(soundobj); 
+thissound.play();
+}
+</script>
 
-<audio controls>
-<source src="https://camillefrancq.github.io/sml5202-final-francq/page2.html/assets/css/Indications.mp3" type="audio/mpeg">
-<br />Your browser does not support the audio element.<br />
-</audio>
+<audio id="audio1"> 
+<source src="https://camillefrancq.github.io/sml5202-final-francq/page2.html/assets/css/Indications.mp3" type="audio/mpeg"> 
+</audio> 
 
-
+<p>
+<a href=”#" onClick="playSound('audio1');event.preventDefault();">Listen to the instructions</a>.
+</p>
 
 <img src="https://pbs.twimg.com/media/DJRVaS8XkAEo5yw.jpg" alt="map"> 
 
