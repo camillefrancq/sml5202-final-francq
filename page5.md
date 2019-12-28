@@ -93,3 +93,4 @@ Nous = stem + ons = nous mangons<br>
 Vous = stem + ez = vous mangez<br>
 Ils, elles + stem + ent = ils, elles mangent</li>
 </ol>
+<a href="https://conjugueur.reverso.net/conjugaison-francais-verbe-conjuguer.html">Visit this website to try out other verbs.</a>
