@@ -8,11 +8,14 @@
  <a href="page6.html">Best things to do in Belgium</a> 
  </center> 
   
- <p>
- <h2>Welcome to Belgium</h2>
- <img src="https://image.flaticon.com/icons/png/512/72/72388.png" width:"20%" height:"20%" alt="carnival" align="right">
- Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
- </p> 
+
+<h2>Welcome to Belgium</h2>
+<p>
+<img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:212px;height:212px;">
+</p>
+
+Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
+
 
 <hr>
 
