@@ -11,7 +11,7 @@ thissound.play();
 </script>
 
 <audio id="audio1"> 
-<source src="https://camillefrancq.github.io/sml5202-final-francq/page2.html/assets/css/Indications.mp3" type="audio/mpeg"> 
+<source src="Indications.mp3" type="audio/mpeg"> 
 </audio> 
 
 <p>
