@@ -48,7 +48,7 @@ When travelling to a country it is fairly easy to get lost or to not find places
 
 <iframe src="https://h5p.org/h5p/embed/685342" width="1090" height="801" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
-
+ <a href="page7.html">Bonus activity</a>
 
 <h3>Useful phrases for travelers</h3>
 <iframe src="https://h5p.org/h5p/embed/686391" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
