@@ -39,7 +39,7 @@ Belch is aimed at people who are interested in Belgium and who have no previous 
 <p>
 <h2> You decide when and where you want to study.</h2> 
 
-<img src="https://image.flaticon.com/icons/png/512/1623/1623343.png" alt="DESCRIPTION OF IMAGE" style="width:112px;height:112px;" align="right"> 
+<img src="https://image.flaticon.com/icons/png/512/1623/1623343.png" alt="DESCRIPTION OF IMAGE" style="width:50px;height:50px;" align="right"> 
 Start with you computer at home. Continue later in the train on your smartphone. Even better, pick it up on your phone during your lunchbreak at work. 
 </p> 
 
