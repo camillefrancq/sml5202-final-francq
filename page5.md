@@ -96,6 +96,6 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 <br>
 <iframe src="https://h5p.org/h5p/embed/686450" width="1090" height="570" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
-<img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary" width="10%" height="10%" align="right"> 
+<img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary" width="5%" height="5%" align="right"> 
 If the meaning of a word is not clear in the previous exercise, <a href="https://www.linguee.fr/">visit this online dictionnary</a>. <br>
 <a href="https://conjugueur.reverso.net/conjugaison-francais-verbe-conjuguer.html">Visit this website to try out other verbs</a>.
