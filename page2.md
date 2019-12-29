@@ -22,7 +22,6 @@ Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone
 </p>
 <iframe src="https://h5p.org/h5p/embed/684601" width="688" height="412" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
- <h3> Illustrative map</h3>
  
  <p>
  <h3> Anecdotes about Belgium</h3>
