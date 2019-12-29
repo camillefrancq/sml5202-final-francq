@@ -78,7 +78,7 @@ At a certain point, waffles, beers and fries might need to be compensated by som
 <hr>
 
 <h2>Verbs</h2>
-Are you ready to widen your French vocabulary with some common French verbs? The following exercice provides
+Are you ready to widen your French vocabulary with some common French verbs? The following exercice provides an overview of verbs you might need while travelling around Belgium. 
 <div class="row">
   <div class="column">
     <h3>Exercise 4</h3>
