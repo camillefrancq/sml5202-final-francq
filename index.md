@@ -42,10 +42,10 @@ Start with you computer at home. Continue later in the train on your smartphone.
 
 <h2 class="center"> Ready?</h2>
 
-<p class="center">
+<p class="justify">
 Interested in Belgium? Willing to master the basics in French? Planning to visit marvellous cities such as Namur, Liège and the capital of Europe? <br>
 
 <strong>Belch is made for you!</strong> <br> 
 
-<a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html" class="center"> Let's get started! </a>
+<input type="button" href="https://camillefrancq.github.io/sml5202-final-francq/page2.html" class="center" value="Let's get started!"/>
 </p>
