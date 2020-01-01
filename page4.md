@@ -1,14 +1,13 @@
- <center> 
- <h1>Useful phrases</h1>
+ <h1 class="center">Useful phrases</h1>
 
-<p>
+<p class="center">
  <a href="index.html">Home page</a> <br>
  <a href="page2.html">About Belgium</a> <br>
  <a href="page3.html">Vocabulary</a> <br>
  <a href="page5.html">Basic grammar</a> <br>
  <a href="page6.html">Best things to do in Belgium</a> 
- </p>
-</center> 
+</p>
+ 
 
 <hr>
 <h2>How to make basic conversation in French</h2>
