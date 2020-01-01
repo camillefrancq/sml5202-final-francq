@@ -52,7 +52,7 @@ Interested in Belgium? Willing to master the basics in French? Planning to visit
 </p>
 
 <p class="centre">
-<a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html"> Let's get started! </a>
+<a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html" class="center"> Let's get started! </a>
 </p>
 
 
