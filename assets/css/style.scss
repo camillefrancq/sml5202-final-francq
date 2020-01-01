@@ -22,11 +22,25 @@ body {font-family: 'Ubuntu', sans-serif;}
 	font-size: 1.1rem;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1, .main-content h4, .main-content h5, .main-content h6 {
 	margin-top: 2rem;
 	margin-bottom: 1rem;
 	font-weight: normal;
 	color: #843148;
+}
+
+.main-content h2 {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-weight: normal;
+	color: #832232;
+}
+
+.main-content h3 {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-weight: normal;
+	color: #653259;
 }
 
 .imgLeft {
@@ -39,12 +53,10 @@ border: 1px solid #021a40;
 
 h2 {
 	text-align: center;
-	color:#123432;
 }
 
 h3 {
 	text-align: center;
-	color:#653259;
 }
 
 .center {
