@@ -59,16 +59,8 @@ Do not worry, Belgian people are nice and will not judge mispruniciations or mis
 <p>It is well known that breakfast is the most important meal of the day and this is especially the case when planning to explore the cities of Belgium. 
 This exercise will provide you with the basic vocabulary to be able to order whatever you like during your breakfast at the hotel.</p>
 
-<div class="row">
-  <div class="column">
-    <h3>Exercise 1</h3>
-       <iframe src="https://h5p.org/h5p/embed/684269" width="190" height="560" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-   </div>
- 
-  <div class="column">
-  </div>
-  
-</div>
+<h3>Exercise 1</h3>
+<iframe src="https://h5p.org/h5p/embed/684269" width="190" height="560" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr/>
 
 <h2>Fruits and vegetables</h2>
