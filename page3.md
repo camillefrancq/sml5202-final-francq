@@ -62,12 +62,13 @@ This exercise will provide you with the basic vocabulary to be able to order wha
 <div class="row">
   <div class="column">
     <h3>Exercise 1</h3>
-
-<iframe src="https://h5p.org/h5p/embed/684269" width="190" height="560" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<hr>
+       <iframe src="https://h5p.org/h5p/embed/684269" width="190" height="560" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+       <hr>
+   </div>
+  <div class="column">
+  </div>
 </div>
-<div class="column">
-</div>
+ <hr/>
 
 <h2>Fruits and vegetables</h2>
 At a certain point, waffles, beers and fries might need to be compensated by some healthy snacks. What is in this case better than a resfreshing fruit or a warming soup full of vitamines made from fresh vegetables bought while wandering through local markets? 
@@ -82,7 +83,7 @@ At a certain point, waffles, beers and fries might need to be compensated by som
     <iframe src="https://h5p.org/h5p/embed/684259" width="1090" height="1698" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
-<hr>
+<hr/>
 
 <h2>Verbs</h2>
 Are you ready to widen your French vocabulary with some common French verbs? The following exercice provides an overview of verbs you might need while travelling around Belgium. 
