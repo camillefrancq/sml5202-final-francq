@@ -40,22 +40,12 @@ Belch is aimed at people who are interested in Belgium and who have no previous 
 Start with you computer at home. Continue later in the train on your smartphone. Even better, pick it up on your phone during your lunchbreak at work. 
 </p> 
 
-
 <h2 class="center"> Ready?</h2>
+
 <p class="center">
 Interested in Belgium? Willing to master the basics in French? Planning to visit marvellous cities such as Namur, Liège and the capital of Europe? <br>
-</p>
 
-
-<p class="center"> 
 <strong>Belch is made for you!</strong> <br> 
-</p>
 
-<p class="centre">
 <a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html" class="center"> Let's get started! </a>
 </p>
-
-
-
-
-
