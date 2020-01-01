@@ -47,5 +47,5 @@ Interested in Belgium? Willing to master the basics in French? Planning to visit
 
 <strong>Belch is made for you!</strong> <br> 
 
-<input type="button" href="https://camillefrancq.github.io/sml5202-final-francq/page2.html" class="center" value="Let's get started!"/>
+<a href="https://camillefrancq.github.io/sml5202-final-francq/page2.html" class="center">Let's get started !</a>
 </p>
