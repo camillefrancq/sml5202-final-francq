@@ -1,13 +1,12 @@
-<center> 
-<h1>Vocabulary</h1>
-<p>
+<h1 class="center">Vocabulary</h1>
+<p class="center">
  <a href="index.html">Home page</a> <br>
  <a href="page2.html">About Belgium</a> <br>
  <a href="page4.html">Useful phrases</a> <br>
  <a href="page5.html">Basic grammar</a> <br>
  <a href="page6.html">Best things to do in Belgium</a> 
 </p>
-</center> 
+
 <hr>
 
 <style>
@@ -184,7 +183,3 @@ The simplest method for learning to speak the days of the week is by heart. Read
 As you can read and listen to the sounds of the words for the months in French, you will notice that they are very similar to English and should not give you any problems in learning by heart. Listen and repeat as often as possible.
 
 <iframe src="https://h5p.org/h5p/embed/685319" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
-
-
