@@ -220,7 +220,7 @@ The present simple has 3 main uses:
  Example: Je mange du pain avec du beurre tous les matins (I eat bread with butter every morning)</li>
  <li>It states facts that are generally true. <br>
  Example: Les adutles sont souvent gentils avec les enfants (People are often nice with children.)</li>
- <li>It is used to say what we like, what we appreciate, ... or the opposite.
+ <li>It is used to say what we like, what we appreciate, ... or the opposite.<br>
  Example: Martin aime le chocolat mais déteste les épinards. (Martin likes chocolate but hates spinach.) </li>
 </ol>
 </p>
