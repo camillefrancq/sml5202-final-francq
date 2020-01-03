@@ -159,7 +159,7 @@ First things first! Start by memorizing the table below and use the vocabulary t
 
 
 
-<h3>Dos and Don’ts for French Greetings</h3>
+<h3>Do's and Dont's for French Greetings</h3>
 The proper etiquette for greeting people in Belgium rdepends on a few factors. While it’s expected and considered polite to greet everyone, from colleagues to shopkeepers, the way you greet each person depends on your relationship with them and the social setting. For example…
 <ul>
  <li><strong>Les bises (kisses)</strong> are a typical greeting when meeting friends in Belgium.</li>
