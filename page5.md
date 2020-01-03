@@ -8,6 +8,42 @@
  </p> 
 <hr>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Border around the container */
+
+.row {
+   border: 1px solid black;
+}
+
+/* Clear floats after the columns */
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
 <h2>Personal pronouns</h2>
 <p>
  A common way to refer to people is by using personal pronouns. In French, the pronouns (you and they) are complicated by gender and formality. You’ll use slightly different variations of these words depending on who you are referring to and how well you know them. 
