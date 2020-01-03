@@ -140,7 +140,9 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 <iframe src="https://h5p.org/h5p/embed/686450" width="1090" height="570" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 <h3> Conjugation of TO BE and TO HAVE</h3>
-<h4>To be</h4>
+<div class="row">
+  <div class="column">
+   <h3>To be</h3>
 <table style="width:100%">
   <tr>
     <th>French</th>
@@ -171,8 +173,9 @@ Ils, elles + stem + ent = ils, elles mangent</li>
     <td>They are</td>
   </tr>
 </table>
-<hr>
-<h4>To have</h4>
+</div>
+  <div class="column">
+  <h3>To have</h3>
 <table style="width:100%">
   <tr>
     <th>French</th>
@@ -203,7 +206,10 @@ Ils, elles + stem + ent = ils, elles mangent</li>
     <td>They have</td>
   </tr>
 </table>
-<hr>
+</div>
+</div>
+<hr/>
+
 
 <img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary" width="7%" height="7%" align="right"> 
 If the meaning of a word is not clear in the previous exercise, <a href="https://www.linguee.fr/">visit this online dictionnary</a>. <br>
