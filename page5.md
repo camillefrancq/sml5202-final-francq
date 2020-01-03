@@ -141,7 +141,7 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 <hr>
 <h3> Conjugation of TO BE and TO HAVE</h3>
 <p>
-The verb to be and to have are essential in English. Moreover, th
+The verb to be and to have are essential in French since they are not only used as main verbs but also as auxilaries. 
 </p>
 <div class="row">
   <div class="column">
