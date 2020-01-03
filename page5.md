@@ -140,6 +140,9 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 <iframe src="https://h5p.org/h5p/embed/686450" width="1090" height="570" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 <h3> Conjugation of TO BE and TO HAVE</h3>
+<p>
+The verb to be and to have are essential in English. Moreover, th
+</p>
 <div class="row">
   <div class="column">
    <h3>To be</h3>
@@ -209,8 +212,19 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 </div>
 </div>
 <hr/>
-
-
+<h3>When is the present tense used?</h3>
+<p>
+The present simple has 3 main uses:
+<ol>
+ <li>It describes a habit, a regular action.<br>
+ Example: Je mange du pain avec du beurre tous les matins (I eat bread with butter every morning)</li>
+ <li>It states facts that are generally true. <br>
+ Example: Les adutles sont souvent gentils avec les enfants (People are often nice with children.)</li>
+ <li>It is used to say what we like, what we appreciate, ... or the opposite.
+ Example: Martin aime le chocolat mais déteste les épinards. (Martin likes chocolate but hates spinach.) </li>
+</ol>
+</p>
+<hr>
 <img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary" width="7%" height="7%" align="right"> 
 If the meaning of a word is not clear in the previous exercise, <a href="https://www.linguee.fr/">visit this online dictionnary</a>. <br>
 
