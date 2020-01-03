@@ -10,7 +10,7 @@
 
 <h2>Personal pronouns</h2>
 <p>
- A common way we refer to people is by using personal pronouns. In French, the pronouns (you and they) are complicated by gender and formality. You’ll use slightly different variations of these words depending on who you are referring to and how well you know them.
+ A common way to refer to people is by using personal pronouns. In French, the pronouns (you and they) are complicated by gender and formality. You’ll use slightly different variations of these words depending on who you are referring to and how well you know them. 
 </p>
 
 <table style="width:100%">
@@ -87,7 +87,7 @@
 <p>When an English-speaking learner of French looks at this, it’s quite overwhelming… In English, you add an "S" to the third person singular (he, she, it). But except for a few irregular verbs like to be, the verb is not going to change much. <br>
 The example of the verb “manger” was what we call “a regular verb” in French, verbs which follow the exact same conjugation pattern.
 </p>
-<h4>What is the logic behind the conjugation of regular verbs?</h4>
+<h3>What is the logic behind the conjugation of regular verbs?</h3>
 <ol>
   <li>Remove the “er” – this will give you what is called “the stem” in grammatical jargon.<br>
  Manger – er = mang </li>
@@ -102,6 +102,71 @@ Ils, elles + stem + ent = ils, elles mangent</li>
 <br>
 
 <iframe src="https://h5p.org/h5p/embed/686450" width="1090" height="570" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<hr>
+<h3> Conjugation of TO BE and TO HAVE</h3>
+<h4>To be</h4>
+<table style="width:100%">
+  <tr>
+    <th>French</th>
+    <th>English</th>
+  </tr>
+  <tr>
+    <td>Je suis</td>
+    <td>I am</td>
+  </tr>
+  <tr>
+    <td>Tu es</td>
+    <td>You are</td>
+  </tr>
+  <tr>
+    <td>Elle/Il est</td>
+    <td>She/He is</td>
+  </tr>
+  <tr>
+    <td>Nous sommes</td>
+    <td>We are</td>
+  </tr>
+  <tr>
+    <td>Vous êtes</td>
+    <td>You are</td>
+  </tr>
+   <tr>
+    <td>Elles/Ils sont</td>
+    <td>They are</td>
+  </tr>
+</table>
+<hr>
+<h4>To have</h4>
+<table style="width:100%">
+  <tr>
+    <th>French</th>
+    <th>English</th>
+  </tr>
+  <tr>
+    <td>J'ai</td>
+    <td>I have</td>
+  </tr>
+  <tr>
+    <td>Tu as</td>
+    <td>You have</td>
+  </tr>
+  <tr>
+    <td>Elle/Il a</td>
+    <td>She/He has</td>
+  </tr>
+  <tr>
+    <td>Nous avons</td>
+    <td>We have</td>
+  </tr>
+  <tr>
+    <td>Vous avez</td>
+    <td>You have</td>
+  </tr>
+   <tr>
+    <td>Elles/Ils ont</td>
+    <td>They have</td>
+  </tr>
+</table>
 <hr>
 
 <img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary" width="7%" height="7%" align="right"> 
