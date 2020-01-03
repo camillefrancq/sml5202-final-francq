@@ -13,7 +13,8 @@
 
 <img src="https://image.flaticon.com/icons/png/512/72/72388.png" alt="DESCRIPTION OF IMAGE" style="width:70px;height:70px;" align="right">
 <p>
-Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
+Whether you’re looking for a weekend break or a longer trip, Belgium has a lot to offer to tourists. Belfries, castles, crazy carnivals, Tintin and Trappist beers..Why would someone not want to visit Belgium?
+Belgium is mostly known for its delicious chocolates, its fries and a wide array of beers. However, Belgium is more than just a few Trappist beers and some crispy fries.
 </p>
 <br>
 <hr>
