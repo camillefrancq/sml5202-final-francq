@@ -225,6 +225,11 @@ The present simple has 3 main uses:
 </ol>
 </p>
 <hr>
+<h3>Practise makes perfect</h3>
+<p>
+The best way to master the basics of verb conjugations is undoubtedly to practice as much as possible. Pay close attention to how verbs are conjugated when you will be listening to Belgian natives.By doing this you will quickly become familiar with the way they sound, and you will find you soon remember them instinctively.
+</p>
+
 <img src="https://image.flaticon.com/icons/png/512/1401/1401284.png" alt="online dictionary" width="7%" height="7%" align="right"> 
 If the meaning of a word is not clear in the previous exercise, <a href="https://www.linguee.fr/">visit this online dictionnary</a>. <br>
 
