@@ -37,17 +37,20 @@ Little tip: Before asking your way, start with addressing people with the phrase
 <hr>
 
 <h3>Understanding basic directions</h3>
+<p>
+The following table illustrates the more useful phrases ans sentences regarding directions. Try to read them out lout in order to work on your pronunciation and to then memorize then. 
+</p> 
 
 <img src="https://i.pinimg.com/564x/b1/cc/f3/b1ccf3fa96b4aeb85878ddb7b18a6c12.jpg" alt="French directions">
 
 <p>
 As you have noticed, the French language makes often use of the same verbs.
 <ul>
- <li> <strong>aller</strong> : aller tout droit, aller jusqu'au supermarché.</li>
- <li> <strong> prendre</strong> : prendre la première rue à droite, prendre le boulevard   Charlemagne, prendre à gauche après la boulangerie.</li>
- <li> <strong>tourner</strong> : tourner à droite, tourner à gauche.</li>
- <li><strong>faire</strong> : faire 100 mètres</li>
- <li>traverser : traverser le pont / le parc / le boulevard.</li>
+ <li> <strong> aller </strong> : aller tout droit, aller jusqu'au supermarché.</li>
+ <li> <strong> prendre </strong> : prendre la première rue à droite, prendre le boulevard   Charlemagne, prendre à gauche après la boulangerie.</li>
+ <li> <strong> tourner </strong> : tourner à droite, tourner à gauche.</li>
+ <li><strong> faire </strong> : faire 100 mètres</li>
+ <li> traverser : traverser le pont / le parc / le boulevard.</li>
 </ul>
 </p>
 
