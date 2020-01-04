@@ -16,20 +16,21 @@ Now let’s learn some basic French conversation. This lesson will teach you how
  </p>
 
 <h3>Basic courtesies</h3>
+<p>
+The English language owes the word "etiquette" to the French langauge, so it’s no wonder that etiquette and manners play a vital role when socialising in French-speaking countries. The following basic terms are handy to avoid being stamped “tourist” if you are on holidays in Belgium. 
+</p>
 
 <iframe src="https://h5p.org/h5p/embed/686388" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h3>Introduce yourself in French</h3>
-
+<p>Travelling can be the perfect opportunity to get to know new people. New encounters will not only liven your stay up but they will also allow you to practise the French language. Do not forget...Practise makes perfect!
+</p>
 <iframe src="https://h5p.org/h5p/embed/686404" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
 <hr>
+
 <h2>Feeling disoriented?</h2>
 <p>
 Exploring French-speaking countries can be quite an adventure, but you need to know how to ask for directions in French and to understand what you’re told. After all, if you don’t understand the directions, you might miss the very things you hoped to see. Luckily, a few French words can help you ask for directions and most of all understand the answer. <br><br><br>
- 
- 
  
 Little tip: Before asking your way, start with addressing people with the phrase "Excusez moi", which will attract people attention in a polite way.
 </p>
