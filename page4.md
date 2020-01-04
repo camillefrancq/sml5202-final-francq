@@ -41,7 +41,7 @@ Little tip: Before asking your way, start with addressing people with the phrase
 The following table illustrates the more useful phrases ans sentences regarding directions. Try to read them out lout in order to work on your pronunciation and to then memorize then. 
 </p> 
 
-<img src="https://i.pinimg.com/564x/b1/cc/f3/b1ccf3fa96b4aeb85878ddb7b18a6c12.jpg" width="110%" height="110%" alt="French directions" class="center">
+<img src="https://i.pinimg.com/564x/b1/cc/f3/b1ccf3fa96b4aeb85878ddb7b18a6c12.jpg" width="115%" height="115%" alt="French directions" class="center">
 
 <p>
 As you have noticed, the French language makes often use of the same verbs.
