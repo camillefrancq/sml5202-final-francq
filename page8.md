@@ -2,7 +2,7 @@
 
 <h2> Jacques Brel: "Le plat pays"</h2>
 <p>
-How better discover the Belgian landscape than through the voice of an iconic Singer? <br>
+How to better discover the Belgian landscape than through the voice of an iconic Singer? <br>
 This famous song depicts the Belgian countryside evolving throughout the different seasons. Listen to the two first verses (or to the whole song if you are curious!) and fill in the gaps. 
 </p>
 
