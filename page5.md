@@ -46,7 +46,7 @@
 
 <h2>Personal pronouns</h2>
 <p>
- A common way to refer to people is by using personal pronouns. In French, the pronouns (you and they) are complicated by gender and formality. You’ll use slightly different variations of these words depending on who you are referring to and how well you know them. 
+ A common way to refer to people is by using personal pronouns. In French, the pronouns (you and they) are complicated by gender and formality. You will use slightly different variations of these words depending on who you are referring to and how well you know them. 
 </p>
 
 <table style="width:100%">
