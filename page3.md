@@ -172,8 +172,8 @@ A hug is seen as an invasion of privacy to the French and can make someone feel 
 
 <h2>Time indicators</h2>
 Last but not least, what about learning to express time?<br>
-The vocabulary of days, months and seasons is essential in French. It is widely used by Francophones. At the beginner level, it is one of the first things to learn and master. Learning the vocabulary of days of the weeks, months and some other temporal indicators will moreover help speakers situate  actions in time when holding a conversation with native speakers of French.<br> 
-The simplest method for learning to speak the days of the week is by heart. Read the words out aloud a few times and you'll quickly learn them by heart.
+The vocabulary of days, months and seasons is essential in French. It is widely used by Francophones. At the beginner level, it is one of the first things to learn and master. These temporal indicators will moreover help speakers situate their actions in time when holding a conversation with native speakers of French.<br> 
+Read the words out loud a few times and you'll quickly learn them by heart.
 As you can read and listen to the sounds of the words for the months in French, you will notice that they are very similar to English and should not give you any problems in learning by heart. Listen and repeat as often as possible.
 <h3>Exercise 7</h3>
 <iframe src="https://h5p.org/h5p/embed/685319" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
