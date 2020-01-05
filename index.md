@@ -27,7 +27,7 @@ Belch is aimed at people who are interested in Belgium and who have no previous 
 <h2 class="center">How does Belch work?</h2>
 <p class="justify">
 <ul>
-  <li>Adapted: intended for beginner English learners</li>
+  <li>Adapted: intended for beginner English learners of French</li>
   <li>Structured: clearly divided in parts</li>
   <li>Immediate feedback given</li>
   <li>Interactive exercices in order to facilitate the language acquisition</li>
