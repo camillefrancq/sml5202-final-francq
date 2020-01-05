@@ -16,7 +16,7 @@
 <h2 class="center"> Overview: WHAT & WHO?</h2>
 
 <p class="justify">
-The following French course is intented to provide basic information about Belgium, useful vocabulary and phrases as well as some basic notions of grammar. In order to better organize your future trip to Belgium, a section is devoted to the best activities that can be done in this tiny country. <br><br><br>
+The following French course is intented to provide basic information about Belgium, useful vocabulary and phrases as well as some basic notions of grammar. In order to better organize your future trip to Belgium, a section is devoted to the best activities that can be done in this tiny but culturally rich country. <br><br><br>
   
   
   
