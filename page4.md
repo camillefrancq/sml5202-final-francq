@@ -12,12 +12,12 @@
 <hr>
 <h2>How to make basic conversation in French</h2>
 <p>
-Now let’s learn some basic French conversation. This lesson will teach you how to introduce yourself, as well as simple words and phrases like yes, no, excuse me and I don’t understand. Learn these and you’ll be ready to conduct short conversations in French.By mastering the basics of conversation in French, you put yourself and the person you’re talking to at ease. Everyone should learn essential French conversational words and phrases before traveling to a French-speaking country. These words and expressions are sure to come up in most everyday conversations.
+Now let’s learn some basic French conversation. This lesson will teach you how to introduce yourself, as well as simple words and phrases like yes, no, excuse me and I don’t understand. Learn these and you will be ready to conduct short conversations in French.By mastering the basics of conversation in French, you put yourself and the person you’re talking to at ease. Everyone should learn essential French conversational words and phrases before traveling to a French-speaking country. These words and expressions are sure to come up in most everyday conversations.
  </p>
 
 <h3>Basic courtesies</h3>
 <p>
-The English language owes the word "etiquette" to the French langauge, so it’s no wonder that etiquette and manners play a vital role when socialising in French-speaking countries. The following basic terms are handy to avoid being stamped “tourist” if you are on holidays in Belgium. 
+The English language owes the word "etiquette" to the French langauge, so it is no wonder that etiquette and manners play a vital role when socialising in French-speaking countries. The following basic terms are handy to avoid being stamped “tourist” if you are on holidays in Belgium. 
 </p>
 
 <iframe src="https://h5p.org/h5p/embed/686388" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -30,7 +30,7 @@ The English language owes the word "etiquette" to the French langauge, so it’s
 
 <h2>Feeling disoriented?</h2>
 <p>
-Exploring French-speaking countries can be quite an adventure, but you need to know how to ask for directions in French and to understand what you’re told. After all, if you don’t understand the directions, you might miss the very things you hoped to see. Luckily, a few French words can help you ask for directions and most of all understand the answer. <br><br><br>
+Exploring French-speaking countries can be quite an adventure, but you need to know how to ask for directions in French and to understand what you’re told. After all, if you do not understand the directions, you might miss the very things you hoped to see. Luckily, a few French words can help you ask for directions and most of all understand the answer. <br><br><br>
  
 Little tip: Before asking your way, start with addressing people with the phrase "Excusez moi", which will attract people attention in a polite way.
 </p>
