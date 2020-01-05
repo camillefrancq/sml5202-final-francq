@@ -1,4 +1,4 @@
-<h1>Bonus activity</h1>
+<h1 class="center">Bonus activity</h1>
 
 <h2> Jacques Brel: "Le plat pays"</h2>
 <p>
