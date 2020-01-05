@@ -31,7 +31,7 @@ How is Belgium organized? Structured? What is Belgium famour for? Let's discover
 
 <h3> Anecdotes about Belgium</h3>
 <p>
-Prepare to add an inch or two to your waistline: Belgium's remarkable range of comestible specialities isn't aimed at weight-watchers. Brussels and Liège compete over what constitutes the perfect  waffle, while countless speciality shops sell some of the world's most delicious chocolates. Jumbo mussels are served with crispy frites. Then, of course, there’s beer. Brewing is a mystical art in Belgium with a dazzling rainbow of different styles, most notably the six great Trappist beers, still created within active monasteries. 
+Prepare to add an inch or two to your waistline: Belgium's remarkable range of comestible specialities will not be your best friend if your aim is to follow a healthy diet. Brussels and Liège compete over what constitutes the perfect  waffle, while countless speciality shops sell some of the world's most delicious chocolates. Jumbo mussels are served with crispy frites. Then, of course, there’s beer. Brewing is a mystical art in Belgium with a dazzling rainbow of different styles, most notably the six great Trappist beers, still created within active monasteries. 
 Learn more about Belgium and its andecdotes with the following presentation. 
 </p>
 
