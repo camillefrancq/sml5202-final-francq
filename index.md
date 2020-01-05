@@ -11,7 +11,7 @@
 <img src="https://image.flaticon.com/icons/png/512/2028/premium/2028661.png" alt="DESCRIPTION OF IMAGE" style="width:212px;height:212px;">
 </p>
  
-<h2 class="center"><strong>Would you like to start learning french from square one? That is a great idea! BELCH is here to help you find an easy and interesting way to begin.</strong></h2><br>
+<h2 class="center"><strong>Would you like to start learning french from square one? That is a great idea! Belch is here to help you find an easy and interesting way to begin.</strong></h2><br>
 
 <h2 class="center"> Overview: WHAT & WHO?</h2>
 
