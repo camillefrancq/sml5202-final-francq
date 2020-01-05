@@ -1,4 +1,4 @@
-<h1>Bonus activity</h1>
+<h1 class="center">Bonus activity</h1>
 
 <h2>Understanding directions: Let's test your knowledge</h2>
 <p>
