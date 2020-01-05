@@ -30,7 +30,7 @@ Belch is aimed at people who are interested in Belgium and who have no previous 
   <li>Adapted: intended for beginner English learners of French.</li>
   <li>Structured: clearly divided in parts.</li>
   <li>Immediate feedback given.</li>
-  <li>Interactive exercices in order to facilitate the language acquisition.</li>
+  <li>Interactive exercices in order to facilitate language acquisition.</li>
 </ul>
 </p>         
 
